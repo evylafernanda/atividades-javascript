@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9ca9647b-3f0c-4385-bfc0-1761e5786b31" alt="Primeiros Passos com JS" width="500">
-</p>
 
 # 🚀 Desafios JavaScript - Mentoria Dev
 
