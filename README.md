@@ -29,8 +29,4 @@ A prática é o segredo para dominar qualquer linguagem. 😉
 
 ---
 
-> _"A programação é como um superpoder. Quanto mais você pratica, mais longe consegue ir."_ 🦸‍♀️💻
-
----
-
 Feito com 💙 durante minha mentoria em desenvolvimento JavaScript.
